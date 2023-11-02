@@ -4,8 +4,8 @@ with open("app/README.md", "r") as f:
     long_description = f.read()
 
 setup(
-    name="idgenerator",
-    version="0.0.10",
+    name="random-idgenerator",
+    version="1.0.0",
     description="An id generator that generated various types and lengths ids",
     package_dir={"": "app"},
     packages=find_packages(where="app"),

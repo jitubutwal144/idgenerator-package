@@ -4,6 +4,7 @@ Do you want to know how to build a complete Python package? Well, look no furthe
 
 Video: https://youtu.be/5KEObONUkik.
 
+## Published package available on testPyPI: https://test.pypi.org/project/random-idgenerator/
 ## Introduction
 
 - Python packaging is the most common way to share code/libraries/applications. It allows packaging of the modules, so that they can later be published and deployed by other users, either by sharing binary files, source code or by using a package manager to fetch them from online (public or private) repositories.

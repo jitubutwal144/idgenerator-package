@@ -1,5 +1,5 @@
 # ID Generator
-A package used to generate random ids of variable lengths and types.
+A sample package used to generate random ids of variable lengths and types (password type, pin numbers, object ids, uuid).
 
 ## How to use
 _After installing the package use following import:_ <br>
